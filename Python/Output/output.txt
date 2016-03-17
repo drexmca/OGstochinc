@@ -1,0 +1,6 @@
+03/17/2016 09:14:37 AM
+Total execution time: 0:00:00.684892
+Total Labor supply: 1.0
+Total Capital supply: 1.0
+Steady State interest rate: 0.312381791072
+Steady State Wage: 0.637945371028
